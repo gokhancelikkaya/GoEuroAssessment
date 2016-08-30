@@ -6,6 +6,11 @@ import java.util.Locale;
 import java.util.Properties;
 import java.util.ResourceBundle;
 
+/**
+ * 
+ * @author Gokhan Celikkaya
+ *
+ */
 public class ConfigurationUtil
 {
 	private static ConfigurationUtil instance;

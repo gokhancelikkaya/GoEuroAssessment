@@ -7,6 +7,11 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.Charset;
 
+/**
+ * 
+ * @author Gokhan Celikkaya
+ *
+ */
 public class ConnectionUtil
 {
 	public static String get(String urlString)

@@ -16,6 +16,11 @@ import com.gokhan.goeuro.util.ConnectionUtil;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 
+/**
+ * 
+ * @author Gokhan Celikkaya
+ *
+ */
 public class MainClass
 {
 	private ConfigurationUtil configurationUtil;
